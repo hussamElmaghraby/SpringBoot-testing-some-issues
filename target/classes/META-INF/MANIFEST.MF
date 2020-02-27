@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mohamed Rabea
+Implementation-Vendor-Id: com.springBoot
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ project/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
